@@ -40,6 +40,8 @@ public class ExtentReportDemoTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http:\\rahulshettyacademy.com");
 		driver.getTitle();
+		driver.getCurrentUrl();
+		driver.getPageSource();
 		test.fail("Result donot match");
 		extent.flush();
 	}
