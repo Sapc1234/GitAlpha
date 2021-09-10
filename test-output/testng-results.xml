@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20624" started-at="2021-09-10T17:34:25 IST" finished-at="2021-09-10T17:34:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20624" started-at="2021-09-10T17:34:25 IST" finished-at="2021-09-10T17:34:45 IST">
+      <class name="rahulshettyacademy.ExtentReports.ExtentReportDemoTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:rahulshettyacademy.ExtentReports.ExtentReportDemoTest@a74868d]" name="config" is-config="true" duration-ms="192" started-at="2021-09-10T17:34:25 IST" finished-at="2021-09-10T17:34:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:rahulshettyacademy.ExtentReports.ExtentReportDemoTest@a74868d]" name="initialDemo" duration-ms="20407" started-at="2021-09-10T17:34:25 IST" finished-at="2021-09-10T17:34:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- rahulshettyacademy.ExtentReports.ExtentReportDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
